@@ -40,7 +40,10 @@ const Game = () => {
         })
     return (
         <>
-        <h1>React Tic Tac Toe - With Hooks</h1>
+        <h1>Tic Tac Toe</h1>
+        <h2>With React Hooks & AWS Deployment</h2>
+        <h4>by Boden Bradley</h4>
+
         <Board squares={history[stepNumber]} onClick={handleClick} />
         <div className="info-wrapper">
             <div>
@@ -49,6 +52,7 @@ const Game = () => {
             </div>
             <h3>{winner ? "Winner: " + winner : "Next Player: " + xO}</h3>
         </div>
+        <h4>With help from codeSTACKr youtube tutorial</h4>
         </>
     )
 }
