@@ -42,7 +42,7 @@ const Game = () => {
         <>
         <h1>Tic Tac Toe</h1>
         <h2>With React Hooks & AWS Deployment</h2>
-        <h4>by Boden Bradley</h4>
+        <h4>by Boden Bradley - Dev</h4>
 
         <Board squares={history[stepNumber]} onClick={handleClick} />
         <div className="info-wrapper">
