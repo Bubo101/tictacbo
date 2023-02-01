@@ -41,7 +41,7 @@ const Game = () => {
     return (
         <>
         <h1>Tic Tac Toe</h1>
-        <h2>With React Hooks & AWS Deployment</h2>
+        <h2>Created with React Hooks & AWS Deployment</h2>
         <h4>by Boden Bradley - Developer</h4>
 
         <Board squares={history[stepNumber]} onClick={handleClick} />
