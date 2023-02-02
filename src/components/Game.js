@@ -40,7 +40,7 @@ const Game = () => {
         })
     return (
         <>
-        <h1>Tic Tac Toe</h1>
+        <h1>Tic Tac Toe/Bo</h1>
         <h2>Created with React Hooks & AWS Deployment</h2>
         <h4>by Boden Bradley - Developer</h4>
 
