@@ -52,7 +52,7 @@ const Game = () => {
             </div>
             <h3>{winner ? "Winner: " + winner : "Next Player: " + xO}</h3>
         </div>
-        <h4>With help from codeSTACKr youtube tutorial</h4>
+        <h5>With help from codeSTACKr youtube tutorial</h5>
         </>
     )
 }
