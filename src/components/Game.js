@@ -43,7 +43,7 @@ const Game = () => {
         <div className="page">
             <h1>Tic Tac Toe</h1>
             <h2>Created with React Hooks & Deployed with AWS</h2>
-            <h4>by Boden Bradley - Software Developer</h4>
+            <h4>by Boden Bradley - Full Stack Software Developer</h4>
 
             <Board squares={history[stepNumber]} onClick={handleClick} />
             <div className="info-wrapper">
