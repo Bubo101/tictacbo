@@ -41,7 +41,7 @@ const Game = () => {
     return (
         <>
         <div className="page">
-            <h1>Tic Tac Toe</h1>
+            <h1>Tic Tac Toe/Bo</h1>
             <h2>Created w/ React Hooks & Deployed with AWS Amplify</h2>
             <h4>by Boden Bradley - Full Stack Software Developer</h4>
 
